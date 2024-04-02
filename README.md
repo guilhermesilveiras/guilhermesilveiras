@@ -8,7 +8,7 @@
 
 <h1 align="center">Hello there! I'm Guilherme!</h1>
 <h3 style="font-size: 18px; text-align: left;">Aspiring programmer fascinated by the world of software development. Currently a student of Information Systems at the Federal Rural University of Pernambuco.</h3>
-<img align="right" alt="Coding" width="400" src="https://imgbb.host/images/QSG06.gif">
+<img align="right" alt="Coding" width="300" src="https://imgbb.host/images/QSG06.gif">
 
 - 🤓 I’m currently focusing on **Academic Projects**
 
